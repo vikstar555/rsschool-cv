@@ -1,4 +1,4 @@
-# Имя Фамилия
+# Viktoriia Tarasova
 
 ## Контакты
 - Email: vikstar555@gmail.com
